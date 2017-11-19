@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AvroDemo/AvroDemo.iml" filepath="$PROJECT_DIR$/AvroDemo/AvroDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hadoop-Idea-HDFS.iml" filepath="$PROJECT_DIR$/Hadoop-Idea-HDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HbaseDemo/HbaseDemo.iml" filepath="$PROJECT_DIR$/HbaseDemo/HbaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiveDemo/HiveDemo.iml" filepath="$PROJECT_DIR$/HiveDemo/HiveDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCDemo/JDBCDemo.iml" filepath="$PROJECT_DIR$/JDBCDemo/JDBCDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaDemo/KafkaDemo.iml" filepath="$PROJECT_DIR$/KafkaDemo/KafkaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProtocDemo/ProtocDemo.iml" filepath="$PROJECT_DIR$/ProtocDemo/ProtocDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StormDemo/StormDemo.iml" filepath="$PROJECT_DIR$/StormDemo/StormDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZookeeperDemo/ZookeeperDemo.iml" filepath="$PROJECT_DIR$/ZookeeperDemo/ZookeeperDemo.iml" />
+    </modules>
+  </component>
+</project>
